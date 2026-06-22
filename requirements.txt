@@ -1,0 +1,6 @@
+telethon==1.36.0
+groq==0.11.0
+aiohttp==3.9.5
+anthropic==0.34.0
+google-generativeai==0.7.2
+openai==1.40.0
